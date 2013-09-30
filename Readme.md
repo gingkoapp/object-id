@@ -1,6 +1,6 @@
 # object-id
 
-  Generate unique MongoDB's ObjectId.
+  Generates unique MongoDB's ObjectId.
   [Read more about ObjectID](http://docs.mongodb.org/manual/core/object-id/).
 
 ## Installation
