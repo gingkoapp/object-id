@@ -1,0 +1,12 @@
+language: node_js
+before_install: "npm install -g component component-test && component install --dev"
+script: "component test --ci"
+node_js:
+- '0.10'
+notifications:
+  hipchat:
+  - secure: ! 'YmrGEpNPI1nMmctJmxVQxLt1qqxo/1HdtHiqtSgxCf/o+olT9kfgW81dJSqK
+
+      ngJ+vYbrxmmZRIxsAERV/vzYJ4tkyX1M75gzdYKKR9KNy0ofd90m8/a7yNyi
+
+      T/mD6kYtpeXIXxHDPjFmcnaNSO4eQBG+6msSpSo2cKIjfSb8/bs='

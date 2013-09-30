@@ -1,4 +1,4 @@
-# object-id
+# [![Build Status](https://secure.travis-ci.org/gingkoapp/object-id.png?branch=master)](https://travis-ci.org/gingkoapp/object-id) object-id
 
   Generates unique MongoDB's ObjectId.
   [Read more about ObjectID](http://docs.mongodb.org/manual/core/object-id/).
