@@ -1,0 +1,21 @@
+{
+  "name": "object-id",
+  "repo": "gingkoapp/object-id",
+  "description": "Generates MongoDB's ObjectId",
+  "version": "1.0.0",
+  "keywords": [
+    "ObjectId",
+    "MongoDB"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "remotes": [],
+  "development": {
+    "component/range": "*",
+    "chaijs/chai": "*",
+    "yields/uniq": "*"
+  }
+}
